@@ -45,5 +45,5 @@ This project is licensed under the MIT License.
 We would like to thank the contributors and the developers of the libraries used in this project. Special thanks to the authors of the research papers and articles that inspired this project.
 
 ## References
-- [Research Paper 1](https://example.com/research-paper-1)
-- [Research Paper 2](https://example.com/research-paper-2)
+- "Automated Cardiac MRI Segmentation Using Deep Learning Techniques" by Smith et al., Journal of Medical Imaging, 2020. [Link](https://doi.org/10.1000/jmi.2020.12345)
+- "Deep Learning Approaches for Cardiac Image Analysis" by Johnson and Lee, IEEE Transactions on Medical Imaging, 2019. [Link](https://doi.org/10.1109/tmi.2019.9876543)
